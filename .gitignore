@@ -24,3 +24,9 @@ docs/site/
 Manifest.toml
 
 jl_*
+
+__site/
+site/.DS_Store
+site/franklin
+site/franklin.pub
+site/node_modules/
